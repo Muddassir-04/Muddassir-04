@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muddassir-04" alt="muddassir-04" /></a> </p>
 
-- 🌱 I’m currently learning **c++,java,python,SQL,watson studio,hadoop**
+- 🌱 I’m currently learning **React,java,python,SQL,watson studio,hadoop**
 
 - 👯 I’m looking to collaborate on **projects related to data science**
 
-- 💬 Ask me about **c++,python,SQL**
+- 💬 Ask me about **c++,python,SQL,React,vite,node.js**
 
 - 📫 How to reach me **muddassirahmed0526@gmail.com**
 
